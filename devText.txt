@@ -1,0 +1,42 @@
+Hi and welcome, my name is Carlos and here I'll explain to you how I started developing web page apps.
+My goal is to be as simple as possible to the point that any child can understand. At the time that I am writting this I'm not a full time developer, still I'll try to update this as soon as possible.
+Right now it's 14 April of 2016, and things are changing as they normaly are in every single day...
+
+#TheTools
+My father taught me that before I can start building stuff I need the proper tools, so let's talk about what do you need and why... let's rephrase that, let's talk about what I need and why.
+
+versionsControl
+In any developing there are reviews, you do something, you notice something could be better and you change it. It's a good practise to keep all this changes.
+So, first I need a web platform to control my changes aka* reviews. A very good one today is github.com, you can create a free account, after that you can have as many "spaces" for any developments that you want, being a free account this only means that all that you have in those "spaces" are shared with anyone! Yep, anyone can see it, so if you don't want people to see it you have two choices, get a paid account on github or don't use it (there are always a third option, you just need to google it).
+
+aka = also know as
+
+(Note to myself: get a video that shows how to create an github account)
+
+There are some good softwares that can simplify your interaction with github, since I am using an Windows O.S. I'll use desktop.github.com (you don't need admin permissions to install this one).
+
+(Note to myself: get a video that shows how to use github desktop)
+
+codeEditor
+After getting this "project" controler, I needed an editor, to actually code something, develop something, say it the way you want. And there are alot of software that can help you with this, but actually all you need is notepad!
+
+notepad = a very simple text editor, native in the Windows O.S. (it is not Microsoft Word!)
+
+I'll be using brackets.io from Adobe, some good ones that you can try are sublimetext.com and www.visualstudio.com/en-us/products/code-vs.aspx.
+
+(brackets can be installed without admin permission, for this you need to download the msi file by pressing download in the page then run in the windows command prompt msiexec /a <path to .msi file> /qb TARGETDIR=<destination folder abs path>, or you can just download the zip file from my google drive here(link to zip file))
+
+info from: https://trello.com/c/sHyY0KlB/1003-portable-build
+
+startSomething
+Now that we have the tools we can learn the skills, there is alot of places that you can go to learn the basics, I'll point down a few of them that I have use in the pass, some I still use today.
+freecodecamp.com
+codecademy.com
+
+As I am writting this, I don't know exacly what I will do, that's why I just gave you this links. You know, coding it's like maths, you need to practise to get used to it, it's like a language that you learn, you need to practise. Simple :)
+
+
+
+
+
+
